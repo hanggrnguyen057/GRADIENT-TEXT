@@ -10,7 +10,7 @@ h1{
 }
 
 h2{
-    color: rgb(0,0,255);
+    color: grey;
     font-size: 20px;
 }
 
@@ -23,4 +23,16 @@ p{
     color: white;
 
     border-top: 5px yellow solid;
+    padding-left: 20px;
+}
+
+.box-1 h1{
+    font-family: Tahoma;
+    font-weight: 800;
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+.box-1 h2{
+    text-decoration: underline;
 }
