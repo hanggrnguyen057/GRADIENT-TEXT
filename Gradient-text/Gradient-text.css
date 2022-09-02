@@ -2,6 +2,6 @@
     font-size: 150px;
     font-weight: 700;
     background: linear-gradient(to right, #52b788,#3a86ff);
-    -webkit-background-clip: text; /*cat cai nen theo cai chu*/
+    -moz-background-clip: text; 
     color: transparent;
 }
