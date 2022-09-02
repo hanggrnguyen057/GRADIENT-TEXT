@@ -1,0 +1,7 @@
+.gradient {
+    font-size: 100px;
+    font-weight: 700;
+    background: linear-gradient(to right, #52b788,#3a86ff);
+    -webkit-background-clip: text; /*cat cai nen theo cai chu*/
+    color: transparent;
+}
