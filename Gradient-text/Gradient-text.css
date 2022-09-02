@@ -1,7 +1,7 @@
 .gradient {
-    font-size: 150px;
+    font-size: 100px;
     font-weight: 700;
     background: linear-gradient(to right, #52b788,#3a86ff);
-    -moz-background-clip: text; 
+    -webkit-background-clip: text;
     color: transparent;
 }
